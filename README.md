@@ -92,7 +92,7 @@ This repository provides:
 
 When citing this repository:
 
-> Smrčka, R. (2025). *Canister Field Mathematics™ – Prior Art Repository.* GitHub.
+> Enter Yourname. (2025). *Canister Field Mathematics™ – Prior Art Repository.* GitHub.
 
 ---
 

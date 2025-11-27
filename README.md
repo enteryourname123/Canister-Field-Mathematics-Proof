@@ -126,5 +126,5 @@ independent decentralized storage layers:
 This repository acts as a publicly verifiable prior-art disclosure in accordance
 with global patent and copyright standards.
 
-Author: Roman Smrčka
+Author: Enter Yourname
 Date: 2025-11-25
